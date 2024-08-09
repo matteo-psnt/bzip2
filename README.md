@@ -26,7 +26,7 @@ The following table illustrates the performance of this Bzip2 implementation on 
 | 10,000 MB          | 2.8 MB               | 0.280             | 72.0%             |
 
 The following graph shows how the compression ratio varies with the file size on a logarithmic scale:
-![Figure 1](./doc/Figure_1.png)
+![Figure 1](./docs/Figure_1.png)
 
 ## Usage
 
