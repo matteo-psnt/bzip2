@@ -22,8 +22,8 @@ The following table illustrates the performance of this Bzip2 implementation on 
 | 1 KB               | 628 Bytes            | 0.613             | 38.7%             |
 | 10 KB              | 3.4 KB               | 0.340             | 66.0%             |
 | 100 KB             | 30 KB                | 0.300             | 70.0%             |
-| 1,000 MB           | 292 KB               | 0.292             | 70.8%             |
-| 10,000 MB          | 2.8 MB               | 0.280             | 72.0%             |
+| 1 MB           | 292 KB               | 0.292             | 70.8%             |
+| 10 MB          | 2.8 MB               | 0.280             | 72.0%             |
 
 The graph shows the compression ratio at different file sizes, with the ratio stabilizing around 72%:
 ![Figure 1](./docs/Figure_1.png)
